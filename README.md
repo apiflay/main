@@ -1,4 +1,4 @@
-Main brand repository.
+Alternative brand repository.
 
 For inquiries: hi@apiflay.com.uy
 
